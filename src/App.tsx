@@ -1,9 +1,10 @@
 import React from 'react';
+import AlbumPage from './pages/AlbumPage';
 
 function App() {
   return (
-    <div className="App">
-      <h1>HELLO</h1>
+    <div>
+        <AlbumPage />
     </div>
   );
 }
