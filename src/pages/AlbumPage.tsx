@@ -9,4 +9,4 @@ function AlbumPage() {
     )
 }
 
-export default AlbumPage
+export default AlbumPage;

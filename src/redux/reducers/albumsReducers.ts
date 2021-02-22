@@ -1,5 +1,5 @@
 import albumInitialState from '../interfaces/albumInterface';
-import { AlbumDispatchTypes, ALBUMS_LOADING, ALBUMS_FAIL, ALBUMS_SUCCESS } from '../types/albumsTypes';
+import { AlbumDispatchTypes, ALBUMS_LOADING, ALBUMS_FAIL, ALBUMS_SUCCESS} from '../types/albumsTypes';
 
 const initialState: albumInitialState = {
     loading: false
