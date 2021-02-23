@@ -6,5 +6,3 @@ const RootReducer = combineReducers({
 });
 
 export default RootReducer;
-
-/* https://jsonplaceholder.typicode.com/albums */

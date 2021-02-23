@@ -34,10 +34,17 @@ export const SearchedAlbum = styled.div`
 export const AlbumName = styled.p`
     font-size: 1.3rem;
     font-weight: bold;
+    text-shadow: 2px 2px 2px #eeeeee;
 `;
 
 export const InfoText = styled.p`
     margin-top: 2rem;
     font-size: 1rem;
+    text-shadow: 2px 2px 2px #eeeeee;
+`;
+
+export const InfoNumber = styled.p`
+    font-size: 1.3rem;
+    font-weight: bold;
     text-shadow: 2px 2px 2px #eeeeee;
 `;

@@ -5,7 +5,7 @@ export const ALBUMS_SUCCESS = "ALBUMS_SUCCESS";
 export type AlbumsType = {
     userId: number
     id: number,
-    title: string
+    title: string,
 }
 
 export interface AlbumLoading {
